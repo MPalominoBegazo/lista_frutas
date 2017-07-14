@@ -1,0 +1,19 @@
+/* Debes pegar todo el código en main.css */
+* {
+  font-family: sans-serif;
+
+}
+
+
+body {
+  background-color: Cornsilk;
+  color: Grey;
+}
+button {
+  width: 200px;
+  height: 30px;
+  background-color: DarkSalmon ;
+  border: none; 
+  font-size: 1em;
+  color: white;
+}
